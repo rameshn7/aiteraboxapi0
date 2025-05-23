@@ -1,0 +1,10 @@
+name = "terabox-api"
+main = "src/index.js"
+compatibility_date = "2024-03-01"
+
+[build]
+command = "echo 'No build needed'"
+
+[dev]
+ip = "0.0.0.0"
+port = 8787
